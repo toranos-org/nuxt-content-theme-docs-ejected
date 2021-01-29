@@ -1,0 +1,10 @@
+{
+  "title": "@nuxt/content-theme-docs-ejected",
+  "url": "https://content.nuxtjs.org/",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "toranos-org/nuxt-content-theme-docs-ejected",
+  "twitter": "@TigRig_TRNS"
+}
